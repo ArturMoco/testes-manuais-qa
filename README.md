@@ -15,4 +15,4 @@ Este repositório contém testes manuais elaborados para fins de demonstração 
 Aplicação Web fictícia de cadastro e login de usuários.
 
 ## 👨‍💻 Autor
-Artur Felipe Albuquerque
+Artur Felipe Albuquerque Portela
